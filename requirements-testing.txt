@@ -15,3 +15,4 @@ twitter>=1.17.1
 feedparser>=5.2.1
 threatkb
 pymysql
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
